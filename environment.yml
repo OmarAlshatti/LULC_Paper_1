@@ -1,0 +1,14 @@
+name: LULC_1
+channels:
+  - defaults
+dependencies:
+  - python=3.12.12
+  - gdal
+  - pytorch=2.5.1
+  - matplotlib
+  - rasterio
+  - jupyter
+  - torchvision
+  - torchaudio
+  - scikit-learn
+prefix: /opt/miniconda3/envs/LULC_1
